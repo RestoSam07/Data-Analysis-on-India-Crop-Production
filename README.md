@@ -1,4 +1,4 @@
-# minor_project
+# Data Analaysis on Indian Crop Production
 A data analytics group project about the crop production and agriculture of India
 This is a concise overview of the transformative impact that data analytics technologies have had on the agricultural sector in recent years. In order to improve farm productivity, sustainability, and overall decision-making processes, farmers, policymakers, and other agricultural stakeholders have been able to leverage the potential of different datasets thanks in large part to the trend towards data-driven decision-making. Crop yields, weather patterns, soil health indicators, and market trends are just a few examples of the diverse kinds of data that are collected, processed, analysed, and interpreted as part of the extensive workflow known as agricultural data analytics. 
 
